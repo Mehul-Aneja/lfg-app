@@ -1,0 +1,51 @@
+Use Git !
+Javascript/React/NextJS Frontend
+Python/Django Backend
+MySQLLite DB
+
+UI Design inspiration - https://builtformars.com
+
+Page contains -
+[Navbar] - stickied (or is it called fixed?)
+[Dynamic Homepage]
+[Footer]
+
+Navbar -
+Homepage icon | ... Looking for GM | Looking for players | ... notification icon (only when logged in) | Messaging icon | User profile image/icon OR Log in page
+
+Footer - 
+Contact Us Page link
+
+Pages -
+1) Home page (just a hero landing page, nothing else)
+2) Looking for GM page
+3) Looking for players page
+4) Individual post pages
+5) Create a post page
+6) User profile page
+7) Log in page
+8) Sign up page
+9) Contact us page
+
+Navigation Layers -
+[Home page, User profile, Login, Sign up, Contact Us] -> [Home page, Looking for GM, Looking for players, User profile OR Log in page, Contact us]
+[Looking for GM, Looking for players] -> [Home page, Looking for GM, Looking for players, User profile OR Log in page, Individual post page, create a post page, Contact us] 
+
+Overlays -
+- Chat Overlays and chat feature
+
+
+TODO -
+[ ] Set up Django project
+[ ] Set up NextJS project
+[ ] Set up API for getting all looking for GM ads
+[ ] Set up API for deleting a looking for GM ad using ad id 
+[ ] Set up API for posting a looking for GM ad
+[ ] Set up API for editing a looking for GM ad using ad id
+[ ] Set up API for getting all looking for player ads
+[ ] Set up API for deleting a looking for player ad using ad id 
+[ ] Set up API for posting a looking for player ad
+[ ] Set up API for editing a looking for player ad using ad id
+[ ] Learn how user login/sign up/authentication and verification works
+[ ] Set up user sign up
+[ ] Set up user log in
