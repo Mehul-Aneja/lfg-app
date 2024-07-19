@@ -42,10 +42,13 @@ TODO -
 [ ] Set up API for deleting a looking for GM ad using ad id 
 [ ] Set up API for posting a looking for GM ad
 [ ] Set up API for editing a looking for GM ad using ad id
+[ ] Set up API for liking a looking for GM ad
 [ ] Set up API for getting all looking for player ads
 [ ] Set up API for deleting a looking for player ad using ad id 
 [ ] Set up API for posting a looking for player ad
 [ ] Set up API for editing a looking for player ad using ad id
+[ ] Set up API for liking a looking for player ad
+[ ] Create an abstraction for the ad OR create a column to differentiate between the two types of ads
 [ ] Learn how user login/sign up/authentication and verification works
 [ ] Set up user sign up
 [ ] Set up user log in
