@@ -52,3 +52,6 @@ TODO -
 [ ] Learn how user login/sign up/authentication and verification works
 [ ] Set up user sign up
 [ ] Set up user log in
+
+FUTURE TODO -
+[ ] Add Chat functionality
